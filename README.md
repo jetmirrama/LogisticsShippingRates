@@ -8,6 +8,7 @@
 **Calculate shipping rates across multiple carriers in seconds.** This open-source tool should simplify logistics cost estimation for businesses and developers.
 
 👉 **Live Demo**: _under construction_
+
 📢 **Join our Discord**: _under construction_
 
 

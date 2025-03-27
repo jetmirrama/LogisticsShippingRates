@@ -1,4 +1,4 @@
-# 🚚 [Shipping Cost Calculator]  
+# 🚚 [Shipping Cost Calculator]
 *An open source shipping rate calculator for global logistics carriers*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
